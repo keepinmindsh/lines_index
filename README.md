@@ -1,4 +1,4 @@
-# lines_golang
+# Golang
 
 ### Basic of Golang
 
@@ -24,13 +24,13 @@
 
 - [References Link](https://github.com/keepinmindsh/lines_golang/tree/main/998_references)
 
-# Lines MYSQL
+# MYSQL
 
 ### Basic MySQL
 
 - [MY SQL Basic](https://github.com/keepinmindsh/lines_mysql/tree/main/001_basic)
 
-# lines_kubernetes
+# Kubernetes 
 
 ### Hello Docker
 
@@ -42,7 +42,7 @@
 
 - [Hello! Kubernetes](https://github.com/keepinmindsh/lines_kubernetes/tree/main/001_HelloKubernetes)
 
-# lines_gcp
+# Google Cloud Platform 
 
 ### GCP 의 쿠버네티스 엔진 활용하기
 
