@@ -67,6 +67,47 @@
 ### Go With AEAD KMS 
 
 - [Go with GCP AEAD KMS](https://github.com/keepinmindsh/lines_golang/tree/main/014_go_gcp_aead_kms)
+- [Go with KMS Key Version](https://github.com/keepinmindsh/lines_golang/tree/main/020_go_with_gcp_kms_sample)
+
+### Go with Generics 
+
+- [Go with Generics](https://github.com/keepinmindsh/lines_golang/tree/main/015_golang_generics)
+
+### Go with Race Condition
+
+- [Go with Race Condition](https://github.com/keepinmindsh/lines_golang/tree/main/016_go_race_conditions)
+
+### Go with Batch 
+
+- [Go with Batch](https://github.com/keepinmindsh/lines_golang/tree/main/016_go_batch_process)
+
+### Go : Uber Style Guide 
+
+- [Uber Style Guide](https://github.com/keepinmindsh/lines_golang/tree/main/019_uber_style_golang_guide)
+
+### Go with floating point error 
+
+- [Go with Floating Point Error](https://github.com/keepinmindsh/lines_golang/tree/main/021_floating_point_error)
+
+### Go with Casting 
+
+- [Go with Casting](https://github.com/keepinmindsh/lines_golang/tree/main/024_go_casting)
+
+### Go with Interface 
+
+- [Go with Casting](https://github.com/keepinmindsh/lines_golang/tree/main/025_go_interface)
+
+### Go with Wrapping Interface 
+
+- [Go with Wrapping Interface](https://github.com/keepinmindsh/lines_golang/tree/main/027_wrapping_interface)
+
+### Go With XSS Filter 
+
+- [Go with XSS Filter](https://github.com/keepinmindsh/lines_golang/tree/main/029_go_xss_filter)
+
+### Go With ChatGPT
+
+- [Go with ChatGPT](https://github.com/keepinmindsh/lines_golang/tree/main/029_go_chatgpt)
 
 ### Goroutine
 
