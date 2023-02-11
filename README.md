@@ -193,9 +193,7 @@
 
 - [Hello! Python](https://github.com/keepinmindsh/lines_pythons)
 
-# Javascript 
-
-### VanillaJS 
+# Javascript
 
 - [VanillaJS](https://github.com/keepinmindsh/lines_javascript/tree/main/vanillajs)
 - [ReactJS](https://github.com/keepinmindsh/lines_javascript/tree/main/react)
