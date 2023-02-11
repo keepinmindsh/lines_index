@@ -189,6 +189,10 @@
 
 - [Tekton Pipeline](https://github.com/keepinmindsh/lines_kubernetes/tree/main/010_tekton_pipelines)
 
+### Terraform 
+
+- [Terraform](https://github.com/keepinmindsh/lines_infra/tree/main/terraform)
+
 # Pythons
 
 - [Hello! Python](https://github.com/keepinmindsh/lines_pythons)
