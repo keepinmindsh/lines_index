@@ -193,6 +193,10 @@
 
 - [Terraform](https://github.com/keepinmindsh/lines_infra/tree/main/terraform)
 
+## Prometheus
+
+[Prometheus](https://github.com/keepinmindsh/lines_infra/tree/main/prometheus)
+
 # Pythons
 
 - [Hello! Python](https://github.com/keepinmindsh/lines_pythons)
