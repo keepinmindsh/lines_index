@@ -208,4 +208,24 @@
 ### Pipeline 
 
 - [Tekton Pipeline](https://github.com/keepinmindsh/lines_kubernetes/tree/main/010_tekton_pipelines)
+<<<<<<< HEAD
 >>>>>>> f4358c5 (kubernetes and infrastructure)
+=======
+
+# Pythons
+
+- [Hello! Python](https://github.com/keepinmindsh/lines_pythons)
+
+# Javascript 
+
+### VanillaJS 
+
+- [VanillaJS](https://github.com/keepinmindsh/lines_javascript/tree/main/vanillajs)
+- [ReactJS](https://github.com/keepinmindsh/lines_javascript/tree/main/react)
+- [Arquero](https://github.com/keepinmindsh/lines_javascript/tree/main/arquero) 
+- [Solid Books](https://github.com/keepinmindsh/lines_solid_books)
+
+# Books 
+
+- [Books](https://github.com/keepinmindsh/lines_books)
+>>>>>>> 1eee882 (added index for javascript, books)
