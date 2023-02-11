@@ -165,36 +165,16 @@
 
 # Infrastructure
 
-<<<<<<< HEAD
-### Docker
-
-- [Container](https://github.com/keepinmindsh/lines_kubernetes/tree/main/002_Container)
-=======
 ### Kubernetes
->>>>>>> f4358c5 (kubernetes and infrastructure)
 
 - [Hello! Kubernetes - GCP Version](https://github.com/keepinmindsh/lines_kubernetes/tree/main/001_HelloKubernetes)
 
 - [Kubernetes - Inflearn](https://github.com/keepinmindsh/lines_kubernetes/tree/main/009_KubeStudy_Inflearn)
 
-<<<<<<< HEAD
-### Kubernetes ( GCP Version )
-=======
 - [Kubernetes in Action](https://github.com/keepinmindsh/lines_kubernetes/tree/main/007_kuberntes_in_action)
->>>>>>> f4358c5 (kubernetes and infrastructure)
 
-### Container 
+### Container
 
-<<<<<<< HEAD
-- [Basic Kubernetes](https://github.com/keepinmindsh/lines_kubernetes/tree/main/005_BasicKubernetes)
-
-# Cloud Platform 
-
-- [GCP](https://github.com/keepinmindsh/lines_kubernetes/tree/main/006_GCP)
-
-
-
-=======
 - [Hello! Container](https://github.com/keepinmindsh/lines_kubernetes/tree/main/002_Container)
 
 ### Docker 
@@ -208,9 +188,6 @@
 ### Pipeline 
 
 - [Tekton Pipeline](https://github.com/keepinmindsh/lines_kubernetes/tree/main/010_tekton_pipelines)
-<<<<<<< HEAD
->>>>>>> f4358c5 (kubernetes and infrastructure)
-=======
 
 # Pythons
 
@@ -228,4 +205,3 @@
 # Books 
 
 - [Books](https://github.com/keepinmindsh/lines_books)
->>>>>>> 1eee882 (added index for javascript, books)
