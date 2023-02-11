@@ -163,20 +163,29 @@
 
 - [MY SQL Basic](https://github.com/keepinmindsh/lines_mysql/tree/main/001_basic)
 
-# Kubernetes 
+# Infrastructure
 
+<<<<<<< HEAD
 ### Docker
 
 - [Container](https://github.com/keepinmindsh/lines_kubernetes/tree/main/002_Container)
+=======
+### Kubernetes
+>>>>>>> f4358c5 (kubernetes and infrastructure)
 
-- [Docker Basic](https://github.com/keepinmindsh/lines_kubernetes/tree/main/003_Docker_Basic)
+- [Hello! Kubernetes - GCP Version](https://github.com/keepinmindsh/lines_kubernetes/tree/main/001_HelloKubernetes)
 
-- [DockerFiles](https://github.com/keepinmindsh/lines_kubernetes/tree/main/004_DockerFiles)
+- [Kubernetes - Inflearn](https://github.com/keepinmindsh/lines_kubernetes/tree/main/009_KubeStudy_Inflearn)
 
+<<<<<<< HEAD
 ### Kubernetes ( GCP Version )
+=======
+- [Kubernetes in Action](https://github.com/keepinmindsh/lines_kubernetes/tree/main/007_kuberntes_in_action)
+>>>>>>> f4358c5 (kubernetes and infrastructure)
 
-- [Hello! Kubernetes](https://github.com/keepinmindsh/lines_kubernetes/tree/main/001_HelloKubernetes)
+### Container 
 
+<<<<<<< HEAD
 - [Basic Kubernetes](https://github.com/keepinmindsh/lines_kubernetes/tree/main/005_BasicKubernetes)
 
 # Cloud Platform 
@@ -185,3 +194,18 @@
 
 
 
+=======
+- [Hello! Container](https://github.com/keepinmindsh/lines_kubernetes/tree/main/002_Container)
+
+### Docker 
+
+- [Hello! Docker](https://github.com/keepinmindsh/lines_kubernetes/tree/main/003_Docker_Basic)
+
+### Dockerfile 
+
+- [Hello! Dockerfile](https://github.com/keepinmindsh/lines_kubernetes/tree/main/004_DockerFiles)
+
+### Pipeline 
+
+- [Tekton Pipeline](https://github.com/keepinmindsh/lines_kubernetes/tree/main/010_tekton_pipelines)
+>>>>>>> f4358c5 (kubernetes and infrastructure)
