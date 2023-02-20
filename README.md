@@ -208,6 +208,10 @@
 - [Arquero](https://github.com/keepinmindsh/lines_javascript/tree/main/arquero) 
 - [Solid Books](https://github.com/keepinmindsh/lines_solid_books)
 
+# Refatoring Link 
+
+- [Refactoring](https://keepinmindsh.github.io/1lines/refactor/refactor_001.html)
+
 # Books 
 
 - [Books](https://github.com/keepinmindsh/lines_books)
